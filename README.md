@@ -1,2 +1,2 @@
-Скрипты для FreeTon
+Script para FreeTon
 =====
